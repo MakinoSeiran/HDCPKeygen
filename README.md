@@ -1,4 +1,3 @@
-```markdown
 # HDCP Keygen
 
 A Windows desktop application for generating HDCP source and sink keys, rewritten in **C++ (MFC)** based on the original Python implementation by Rich Wareham. This tool provides a graphical user interface for easy key generation and testing.
