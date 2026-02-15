@@ -70,7 +70,7 @@ If the file is missing or malformed, the program will show an error message.
 
 ## Credits
 
-- Original Python script by **Rich Wareham** (2010) – [GitHub](https://github.com/richwareham)
+- Original Python script by **Rich Wareham** (2010) – [GitHub](https://github.com/rjw57)
 - C++/MFC port and GUI enhancements by **[MakinoSeiran](https://github.com/MakinoSeiran)**
 
 ## License
