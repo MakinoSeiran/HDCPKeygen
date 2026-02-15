@@ -75,5 +75,5 @@ If the file is missing or malformed, the program will show an error message.
 
 ## License
 
-This project retains the original BSD license. See the [LICENSE](LICENSE) file for details.
+This project retains the original BSD license. See the LICENSE.txt file for details.
 ```
