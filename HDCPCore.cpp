@@ -29,7 +29,6 @@ bool HDCPCore::LoadMasterKey(const std::wstring& filePath)
     int rowCount = 0;
     while (std::getline(file, line))
     {
-        // 跳过空行和注释行
         if (line.empty() || line[0] == '#')
             continue;
 
