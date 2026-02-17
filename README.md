@@ -39,7 +39,7 @@ A reference example file (`master-key.txt`) is provided in the repository – yo
    ```bash
    git clone https://github.com/MakinoSeiran/HDCPKeygen.git
    ```
-2. Open the solution file `HDCPGenerator.sln` in Visual Studio.
+2. Open the solution file `HDCPGenerator.vcxproj` in Visual Studio.
 3. Select the desired configuration (Debug/Release) and platform (x86/x64).
 4. Build the solution (Ctrl+Shift+B).
 
